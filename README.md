@@ -1,41 +1,53 @@
-Sistema de Vendas e Controle de Estoque - app-pf-controle-vendas
+# 🛒 Sistema de Vendas e Controle de Estoque  
+**Nome do projeto:** `app-pf-controle-vendas`
 
-Nome dos integrantes do grupo
+---
 
-Vinicios Santos RA: 212553
-Vitor Reis dos Santos RA: 213900
+## 👥 Integrantes do Grupo
 
-Objetivo do Projeto
+- **Vinicios Santos** — RA: 212553  
+- **Vitor Reis dos Santos** — RA: 213900  
 
-Desenvolver uma aplicação web simples e funcional para simular o controle de estoque e o gerenciamento de vendas de pequenas lojas, utilizando tecnologias front-end (HTML, CSS e JavaScript) com armazenamento local via localStorage.
+---
 
-Funcionalidades Implementadas
+## 🎯 Objetivo do Projeto
 
-Cadastro de produtos (nome, descrição, preço, quantidade)
+Desenvolver uma aplicação web **simples, funcional e intuitiva** para **simular o controle de estoque e o gerenciamento de vendas** de pequenas lojas, utilizando **tecnologias front-end** (HTML, CSS e JavaScript) com **armazenamento local via `localStorage`**.
 
-Listagem de produtos com controle de estoque
+---
 
-Registro de vendas com verificação de estoque
+## ✅ Funcionalidades Implementadas
 
-Formatação de datas e valores monetários
+- 📦 **Cadastro de produtos** (nome, descrição, preço, quantidade)  
+- 📋 **Listagem de produtos** com controle de estoque  
+- 🧾 **Registro de vendas** com verificação da quantidade em estoque  
+- 📆 **Formatação de datas** e 💰 **valores monetários**  
+- 🧠 **Máscaras para inputs** de CPF, telefone, data e valores monetários  
+- 📊 **Relatórios de vendas** exibidos em tabela e com **gráficos usando Chart.js**
 
-Máscaras para inputs de CPF, telefone, data e valores monetários
+---
 
-Relatórios de vendas exibidos em tabela e com gráficos usando Chart.js
+## 💻 Tecnologias Utilizadas
 
-Tecnologias Utilizadas
+- `HTML5`  
+- `CSS3`  
+- `JavaScript (ES6)`  
+- `localStorage`  
+- [`Chart.js`](https://www.chartjs.org/) (para relatórios gráficos)
 
-HTML5
+---
 
-CSS3
+## 🧠 Divisão de Tarefas
 
-JavaScript (ES6)
+- **Vinicios Santos** — RA: 212553  
+  🔹 Desenvolvimento do front-end  
+  🔹 Funcionalidades de cadastro  
+  🔹 Controle de estoque e vendas  
 
-localStorage
+- **Vitor Reis dos Santos** — RA: 213900  
+  🔹 Integração com Chart.js  
+  🔹 Validações de formulários  
+  🔹 Criação do `README.md`
+  🔹 Formatação de dados  
 
-Chart.js (para relatórios)
-
-Divisão de Tarefas entre os Membros
-
-Vinicios Santos RA: 212553 - Desenvolvimento do front-end, funcionalidades de cadastro, controle de estoque e vendas
-Vitor Reis dos Santos RA: 213900 - Integração com Chart.js, validações de formulários, README.md e formatação dos dados
+---
