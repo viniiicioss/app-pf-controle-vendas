@@ -47,7 +47,16 @@ Desenvolver uma aplicação web **simples, funcional e intuitiva** para **simula
 - **Vitor Reis dos Santos** — RA: 213900  
   🔹 Integração com Chart.js  
   🔹 Validações de formulários  
-  🔹 Criação do `README.md`
+  🔹 Criação do `README.md`  
   🔹 Formatação de dados  
 
 ---
+
+## 🌐 Hospedagem para Testes
+
+A aplicação está hospedada gratuitamente para fins de teste e demonstração no seguinte link:
+
+🔗 **[app-pf-controle-vendass.netlify.app](https://app-pf-controle-vendass.netlify.app/)**
+
+---
+
